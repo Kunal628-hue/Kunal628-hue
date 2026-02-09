@@ -11,10 +11,11 @@
 
 ### 👨‍💻 About Me
 
-•⁠  ⁠Software developer with interest in *Full-Stack, Android & Open Source*
-•⁠  ⁠Focused on writing *clean, scalable, and maintainable code*
-•⁠  ⁠Actively practicing *DSA & competitive programming*
-•⁠  ⁠Based in India 🇮🇳
+• Software developer with interest in *Full-Stack, Android & Open Source*  
+• Focused on writing *clean, scalable, and maintainable code*  
+• Actively practicing *DSA & competitive programming*  
+• Passionate about *Trading & Financial Markets*  
+• Based in India 🇮🇳  
 
 ---
 
@@ -23,6 +24,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,python,cpp,mysql,cs,django,git,github,figma" />
 </p>
+
+---
+
+### 📈 Trading
+
+• Active interest in **Trading & Financial Markets**  
+• Platforms: **Groww**, **CoinDCX**, **IndiaMoney**  
+• Focused on long-term investing, market research, and risk management  
 
 ---
 
