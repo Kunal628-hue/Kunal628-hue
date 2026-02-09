@@ -30,7 +30,7 @@
 ### 📈 Trading
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/groww/00D09C" height="40" alt="Groww" />
+  <img src="[https://cdn.simpleicons.org/groww/00D09C](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/867cec7b-d751-575a-9d74-26de14f31f53/f7beb158-4b2b-5c87-87a3-5ac53a754c98.jpg)" height="40" alt="Groww" />
   <img src="https://cdn.simpleicons.org/coindcx/3861FB" height="40" alt="CoinDCX" />
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" height="40" alt="IndiaMoney" />
 </p>
