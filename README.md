@@ -29,6 +29,12 @@
 
 ### 📈 Trading
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/groww/00D09C" height="40" alt="Groww" />
+  <img src="https://cdn.simpleicons.org/coindcx/3861FB" height="40" alt="CoinDCX" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" height="40" alt="IndiaMoney" />
+</p>
+
 • Active interest in **Trading & Financial Markets**  
 • Platforms: **Groww**, **CoinDCX**, **IndiaMoney**  
 • Focused on long-term investing, market research, and risk management  
