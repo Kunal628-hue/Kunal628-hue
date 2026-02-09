@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunal628-hue 56&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunal628-hue &show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
     alt="Ayush's GitHub stats"
   />
 </p>
