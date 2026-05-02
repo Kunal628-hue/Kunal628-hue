@@ -29,7 +29,7 @@ status      : Open to Opportunities
 
 ---
 
-## `$ ls ./skills`
+skills
 
 **Frontend**
 
@@ -57,7 +57,7 @@ status      : Open to Opportunities
 
 ---
 
-## `$ git log --stat`
+stat
 
 <div align="center">
 
