@@ -29,7 +29,7 @@ status      : Open to Opportunities
 
 ---
 
-skills
+## `$ skills`
 
 **Frontend**
 
@@ -57,7 +57,7 @@ skills
 
 ---
 
-stat
+## `$ stat`
 
 <div align="center">
 
