@@ -73,7 +73,7 @@ status      : Open to Opportunities
 
 ---
 
-## `$ ./practice --platform=leetcode`
+## `$ leetcode`
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/A8Ig2I8d3x?theme=dark&font=Fira+Code&border=0&bg_color=0d1117&radius=10" />
@@ -81,7 +81,7 @@ status      : Open to Opportunities
 
 ---
 
-## `$ cat trading_profile.json`
+## `$ trading_profile`
 
 ```json
 {
@@ -94,7 +94,7 @@ status      : Open to Opportunities
 
 ---
 
-## `$ curl --social`
+## `$ social`
 
 <div align="center">
 
