@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0e75b6&height=200&section=header&animation=fadeIn&fontAlignY=38&text=Kunal%20Singhi&fontSize=50&fontColor=58a6ff&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Trader&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=440&lines=Full-Stack+Developer;Android+%26+Open+Source+Enthusiast;DSA+%26+Competitive+Programmer;Trader+%26+Market+Researcher" alt="Typing SVG" />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kunal628-hue&label=Profile+Views&color=0e75b6&style=for-the-badge" />
