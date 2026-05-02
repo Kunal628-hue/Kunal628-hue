@@ -1,99 +1,133 @@
-<h1 align="center">Hi 👋, I'm Kunal Singhi</h1>
-<p align="center">
-  Software Developer • Trader • Full-Stack
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kunal628-hue&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0e75b6&height=120&section=header&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<h1>
+██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗<br/>
+██║ ██╔╝██║   ██║████╗  ██║██╔══██╗██║<br/>
+█████╔╝ ██║   ██║██╔██╗ ██║███████║██║<br/>
+██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║██║<br/>
+██║  ██╗╚██████╔╝██║ ╚████║██║  ██║███████╗<br/>
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+</h1>
 
-• Software developer with interest in *Full-Stack, Android & Open Source*  
-• Focused on writing *clean, scalable, and maintainable code*  
-• Actively practicing *DSA & competitive programming*  
-• Passionate about *Trading & Financial Markets*  
-• Based in India 🇮🇳  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=440&lines=Full-Stack+Developer;Android+%26+Open+Source+Enthusiast;DSA+%26+Competitive+Programmer;Trader+%26+Market+Researcher" alt="Typing SVG" />
 
----
+<br/><br/>
 
-### 🛠️ Skills
+<img src="https://komarev.com/ghpvc/?username=Kunal628-hue&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Kunal628-hue?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,bootstrap,python,cpp,mysql,cs,django,git,github,figma" />
-</p>
+</div>
 
 ---
 
-### 📈 Trading
+## `$ whoami`
 
-<p align="left">
-  <img src="[https://cdn.simpleicons.org/groww/00D09C](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/867cec7b-d751-575a-9d74-26de14f31f53/f7beb158-4b2b-5c87-87a3-5ac53a754c98.jpg)" height="40" alt="Groww" />
-  <img src="https://cdn.simpleicons.org/coindcx/3861FB" height="40" alt="CoinDCX" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" height="40" alt="IndiaMoney" />
-</p>
-
-• Active interest in **Trading & Financial Markets**  
-• Platforms: **Groww**, **CoinDCX**, **IndiaMoney**  
-• Focused on long-term investing, market research, and risk management  
-
----
-
-### 📊 GitHub
-
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunal628-hue&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000&text_color=f0f6fc&icon_color=58a6ff&cache_seconds=1800"
-    alt="Kunal's GitHub stats"
-  />
-</p>
+```yaml
+name        : Kunal Singhi
+role        : Software Developer & Full-Stack Engineer
+location    : India 🇮🇳
+focus       : Clean · Scalable · Maintainable Code
+interests   : [Full-Stack, Android, Open Source, DSA, Trading]
+status      : Open to Opportunities
+```
 
 ---
 
-### 🧠 LeetCode
+## `$ ls ./skills`
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/A8Ig2I8d3x?theme=dark&font=Inter&border=0&bg_color=0d1117&radius=10" />
-</p>
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🤝 Connect With Me
+**Backend & Languages**
 
-<p align="left">
-  <a href="https://github.com/Kunal628-hue">
-    <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/kunal-singhi-jain-2b3329386">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/A8Ig2I8d3x/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" alt="LeetCode" />
-  </a>
-  <a href="https://codolio.com/profile/Kunal2414">
-    <img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=64" height="38" alt="Codolio" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/kunaltyc1/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="38" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.codechef.com/users/zany_ref_83">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" alt="CodeChef" />
-  </a>
-  <a href="https://discord.com/kunal_24137">
-    <img src="https://skillicons.dev/icons?i=discord" height="38" alt="Discord" />
-  </a>
-  <a href="https://x.com/kunal_singhi2">
-    <img src="https://skillicons.dev/icons?i=twitter" height="38" alt="X (Twitter)" />
-  </a>
-  <a href="https://instagram.com/singhi.kunal">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-<p align="center">
-  — simple • focused • evolving —
-</p>
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunal628-hue&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kunal628-hue&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Kunal628-hue&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff"/>
+
+</div>
+
+---
+
+## `$ ./practice --platform=leetcode`
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/A8Ig2I8d3x?theme=dark&font=Fira+Code&border=0&bg_color=0d1117&radius=10" />
+</div>
+
+---
+
+## `$ cat trading_profile.json`
+
+```json
+{
+  "focus"     : ["Long-term Investing", "Market Research", "Risk Management"],
+  "assets"    : ["Equities", "Crypto", "Mutual Funds"],
+  "platforms" : ["Groww", "CoinDCX", "IndiaMoney"],
+  "approach"  : "Data-driven · Disciplined · Patient"
+}
+```
+
+---
+
+## `$ curl --social`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunal628-hue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-singhi-jain-2b3329386)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kunal_singhi2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/singhi.kunal)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/kunal_24137)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/A8Ig2I8d3x/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/kunaltyc1/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/zany_ref_83)
+[![Codolio](https://img.shields.io/badge/Codolio-0e75b6?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Kunal2414)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a2332,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*`simple · focused · evolving`*
+
+</div>
